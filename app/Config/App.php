@@ -70,6 +70,7 @@ class App extends BaseConfig
 	 * @var string
 	 */
 	public $defaultLocale = 'pt-BR';
+	
 
 	/**
 	 * --------------------------------------------------------------------------
